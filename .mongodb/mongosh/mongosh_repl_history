@@ -1,0 +1,13 @@
+exit
+cd /etc
+exit
+sudo find / -name mongod.conf
+exit
+show dbse({name: "AWS MongoDB", status: "working"})
+use mydatabase
+mongosh --version
+show dbs
+show dbsgosh --version
+show dbsw dbsshow dbs
+show dbsgosh --version
+show dbs
